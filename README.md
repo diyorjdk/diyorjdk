@@ -15,7 +15,7 @@
 
 - 🇺🇿 Based in **Uzbekistan**
 - 📱 Passionate **Android Developer** focusing on modern mobile development
-- ✍️ I regularly share my dev journey, tips, and insights on [Telegram (@diyor_jdk)](https://t.me/diyorjdk)
+- ✍️ I regularly share my dev journey, tips, and insights on [Telegram (@diyorjdk)](https://t.me/diyorjdk)
 - 💬 Ask me about **CMP, Android, Java, Kotlin, Jetpack Compose, and Clean Architecture**
 - 📫 Let's connect: **diyordev13@gmail.com**
 
